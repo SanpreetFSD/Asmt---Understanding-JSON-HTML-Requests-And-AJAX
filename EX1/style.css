@@ -1,0 +1,14 @@
+.restaurant {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  .restaurant h2 {
+    margin: 0;
+    font-size: 24px;
+  }
+  .restaurant p {
+    margin: 0;
+    font-size: 18px;
+  }
+  
